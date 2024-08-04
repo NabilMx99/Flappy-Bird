@@ -280,7 +280,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d17949bffc7b6b346809275ebab12e87, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _upwardForce: 5
+  _upwardForce: 5.5
   isFlying: 0
   hasHitPipe: 0
   wingSound: {fileID: 8300000, guid: c9a4d7a8f0c84da42beb8380ab00f612, type: 3}
