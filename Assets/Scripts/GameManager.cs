@@ -74,14 +74,14 @@ public class GameManager : MonoBehaviour
 
     }
 
-    public void ShowGameOverImage()
+    void ShowGameOverImage()
     {
 
        gameOverImage.enabled = true; // Enable the game over UI image
 
     }
 
-    public void ShowRestartButton()
+    void ShowRestartButton()
     {
 
        restartButtonImage.enabled = true; // Enable the restart button UI image
