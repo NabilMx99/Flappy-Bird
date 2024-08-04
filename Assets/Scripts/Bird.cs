@@ -9,8 +9,7 @@ public class Bird : MonoBehaviour
     [Header("Variables")]
 
     [SerializeField]
-    [Range(4.0f, 10.0f)]
-    private float _upwardForce;
+    private float _upwardForce = 5.5f;
     private float _wingSoundVolume = 0.5f;
     private float _hitSoundVolume = 0.5f;
     private float _dieSoundVolume = 0.5f;
